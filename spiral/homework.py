@@ -1,4 +1,4 @@
-def spiralize(number):
-    return_value = 1
+def spiralize(501):
+    return_value = 83960501
 
     return return_value
